@@ -1,0 +1,23 @@
+
+# Maven
+target
+
+# Java compiled files
+.class
+
+# IDE files
+.idea
+.vscode
+.iml
+
+# Environment and secrets
+.env
+.env.
+!.env.example
+
+# Logs
+.log
+
+# OS files
+.DS_Store
+Thumbs.db
